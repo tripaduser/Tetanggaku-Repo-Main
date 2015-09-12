@@ -33,6 +33,7 @@ public class SplashActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
+        //ahahaahahahahahahaha
 
         tv_status = (TextView) findViewById(R.id.tv_status);
         pb_checkingProgressBar =(ProgressBar) findViewById(R.id.pb_checkingProgressBar);
